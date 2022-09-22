@@ -1,1 +1,1 @@
-# universe
+# Universe illustration in CSS
